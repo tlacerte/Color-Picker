@@ -1,0 +1,1 @@
+Press the button to find your new favorite color. The RGB code will be shown so you are able to copy that color and use it in your next project. 
